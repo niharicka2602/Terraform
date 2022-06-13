@@ -1,2 +1,3 @@
 # Terraform
-To perform all basic to advanced TF scripting
+
+This repository is created with the intention to perform all basic to advanced Terrafrom scripts.
